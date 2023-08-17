@@ -1,2 +1,2 @@
 # API-MINI-PROJECT
-Jokes api
+In this web page Sradha mam will be sharing Jokes with us
